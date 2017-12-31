@@ -1,4 +1,4 @@
-# invie-github
-Es mis primeros proyectos es una prueba de git 
+# invie
+Las guitarras más locas
 
-Hola soy un prueba de git
+http://leonidasesteban.github.io/invie-responsive/
